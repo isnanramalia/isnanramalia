@@ -3,7 +3,7 @@
 <p align="center">
 
 
-  <a href="https://www.instagram.com/isnanramalia"><img height="30" src="https://github.com/HansenGianto/HansenGianto/blob/main/img/instagram.svg?raw=true"></a>&nbsp;&nbsp;
+  <a align="center" href="https://www.instagram.com/isnanramalia"><img height="30" src="https://github.com/HansenGianto/HansenGianto/blob/main/img/instagram.svg?raw=true"></a>&nbsp;&nbsp;
    <a align="center" href="https://twitter.com/isnanramalia"><img height="30" src="https://github.com/isnanramalia/isnanramalia/blob/main/twt.png"></a><br>
 </p><br/>
  
