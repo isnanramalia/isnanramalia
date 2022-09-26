@@ -1,9 +1,9 @@
 <h1 align="center"> Hi, I'm Isna Nur Amalia! :wave:</h1>
 <p align="center">Informatics Engineering 💻 </p>
-<p align="center">hola hola cuma belajar
+<p align="center">
 
-  <a align="center" href="https://instagram.com/isnanramalia"><img height="30" src="https://github.com/isnanramalia/isnanramalia/blob/main/instagram.png"</a>
-  <a align="center" href="https://twitter.com/isnanramalia"><img height="30" src="https://github.com/isnanramalia/isnanramalia/blob/main/twt.png"></a>
+  <a align="center" href="https://instagram.com/isnanramalia"><img height="30" src="https://github.com/isnanramalia/isnanramalia/blob/main/instagram.png"</a><br>
+  <a align="center" href="https://twitter.com/isnanramalia"><img height="30" src="https://github.com/isnanramalia/isnanramalia/blob/main/twt.png"></a><br>
   <a align="center" href="https://linkedin.com/in/isnanramalia"><img height="30" src="https://github.com/isnanramalia/isnanramalia/blob/main/linkin.png"</a>
 </p><br/>
 
