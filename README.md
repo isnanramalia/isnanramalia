@@ -2,7 +2,7 @@
 <p align="center">Informatics Engineering 💻 </p>
 <p align="center">
   <a href="https://www.instagram.com/isnanramalia"><img height="33" src="https://github.com/HansenGianto/HansenGianto/blob/main/img/instagram.svg?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://twitter.com/isnanramalia"><img height="34" src="https://github.com/isnanramalia/isnanramalia/blob/main/twt.png"></a><a></a>
+   <a href="https://twitter.com/isnanramalia"><img height="34" src="https://github.com/isnanramalia/isnanramalia/blob/main/twt.png"></a>&nbsp;&nbsp;
    <a href="https://linkin.com/isnanramalia"><img height="35" src="https://github.com/isnanramalia/isnanramalia/blob/main/linkin.png"></a>
 </p>
  
