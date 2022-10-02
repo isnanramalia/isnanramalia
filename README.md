@@ -7,6 +7,6 @@
 </p>
  
 
-![https://github-readme-stats.vercel.app/api?username=isnanramalia&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=11998e](https://github-readme-stats.vercel.app/api?username=isnanramalia&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=11998e)
-<a href="https://github.com/isnanramalia/isnanramalia"><img align="center" width="300" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isnanramalia&layout=compact&hide=css,html&card_width=300&theme=dark" /></a>
+![https://github-readme-stats.vercel.app/api?username=isnanramalia&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=11998e](https://github-readme-stats.vercel.app/api?username=isnanramalia&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=11998e);
+href="https://github.com/isnanramalia/isnanramalia"><img align="center" width="300" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isnanramalia&layout=compact&hide=css,html&card_width=300&theme=dark"
 
