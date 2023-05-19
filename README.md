@@ -1,4 +1,4 @@
-<body style="background-color: grey;">
+<!-- 
 <h1 align="center"> Hi, I'm Isna Nur Amalia! :wave:</h1>
 
 <p align="center">Informatics Engineering 👩‍💻 </p>
@@ -7,6 +7,8 @@
    <a href="https://twitter.com/isnanramalia"><img height="34" src="https://github.com/isnanramalia/isnanramalia/blob/main/twt.png"></a>&nbsp;&nbsp;
    <a href="https://linkin.com/isnanramalia"><img height="36" src="https://github.com/isnanramalia/isnanramalia/blob/main/linkin.png"></a>
 </p>
+
+ -->
 
 ## Stats 📈
 <div align="left">
